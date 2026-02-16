@@ -178,7 +178,7 @@ If you use this dataset in research or reporting:
 ```
 Bouvier, M. (2026). Common Sense Education Community Review Archive. 
 Open Science Framework. https://osf.io/ehbfv/
-Code: https://github.com/[YOUR_USERNAME]/common-sense-review-archive
+Code: https://github.com/merrybouv/common-sense-review-archive
 ```
 
 ---
