@@ -2,7 +2,7 @@
 
 Systematic preservation of Common Sense Education community reviews for widely-used EdTech products. These peer reviews from teachers, parents, and students represent over a decade of firsthand accounts but are no longer easily accessible on Common Sense Media product pages.
 
-**Maintained by:** [NET Lab, Inc.](https://netlabconsulting.net) | Meredith Bouvier, PhD
+**Maintained by:** [NET Lab, Inc.] | Meredith Bouvier, PhD
 
 **Dataset:** Available on [Open Science Framework (OSF)](https://osf.io/ehbfv/)
 
