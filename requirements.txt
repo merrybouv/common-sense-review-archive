@@ -1,0 +1,6 @@
+pandas
+anthropic
+wordcloud
+matplotlib
+requests
+beautifulsoup4
