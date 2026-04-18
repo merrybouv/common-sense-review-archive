@@ -129,7 +129,7 @@ For full methodology documentation including data cleaning steps and known limit
 
 ## Related Publication
 
-Bouvier, M. (under review). Student voice, practitioner knowledge, and a disappearing EdTech review archive.
+Bouvier, M. (under review). Student voice, practitioner knowledge, and a disappearing EdTech review archive. Submitted to *Educational Evaluation and Policy Analysis.*
 
 ---
 
