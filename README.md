@@ -2,7 +2,7 @@
 
 Systematic preservation of Common Sense Education community reviews for widely-used K-12 EdTech products. These reviews from teachers, parents, and students represent over a decade of firsthand accounts that are no longer publicly accessible.
 
-**Maintained by:** Meredith Bouvier, PhD | NET Lab, Inc.  
+**Maintained by:** Meredith Bouvier, PhD
 **Dataset:** [Open Science Framework (OSF)](https://osf.io/ehbfv/)  
 **Status:** Archive complete — collection closed March 2026
 
@@ -158,6 +158,5 @@ All reviews were publicly accessible at time of collection. No authentication re
 ## Contact
 
 **Meredith Bouvier, PhD**  
-NET Lab, Inc. (Delaware Public Benefit Corporation)  
 merrybouv@proton.me  
 https://orcid.org/0009-0009-0978-5231
